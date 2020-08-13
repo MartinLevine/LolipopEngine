@@ -1,0 +1,8 @@
+C:\Users\bitbits.inc\source\repos\Lolipop\bin\Debug\Lolipop.dll
+C:\Users\bitbits.inc\source\repos\Lolipop\bin\Debug\Lolipop.pdb
+C:\Users\bitbits.inc\source\repos\Lolipop\obj\Debug\Lolipop.csprojAssemblyReference.cache
+C:\Users\bitbits.inc\source\repos\Lolipop\obj\Debug\Lolipop.csproj.CoreCompileInputs.cache
+C:\Users\bitbits.inc\source\repos\Lolipop\obj\Debug\Lolipop.dll
+C:\Users\bitbits.inc\source\repos\Lolipop\obj\Debug\Lolipop.pdb
+C:\Users\bitbits.inc\source\repos\Lolipop\bin\Debug\MySql.Data.dll
+C:\Users\bitbits.inc\source\repos\Lolipop\obj\Debug\Lolipop.csproj.CopyComplete

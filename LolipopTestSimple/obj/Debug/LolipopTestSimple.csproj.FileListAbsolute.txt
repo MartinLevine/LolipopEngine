@@ -1,0 +1,12 @@
+C:\Users\bitbits.inc\source\repos\图书管理系统\obj\Debug\LolipopTestSimple.Form1.resources
+C:\Users\bitbits.inc\source\repos\图书管理系统\obj\Debug\LolipopTestSimple.Properties.Resources.resources
+C:\Users\bitbits.inc\source\repos\图书管理系统\obj\Debug\LolipopTestSimple.csproj.GenerateResource.cache
+C:\Users\bitbits.inc\source\repos\图书管理系统\obj\Debug\LolipopTestSimple.csproj.CoreCompileInputs.cache
+C:\Users\bitbits.inc\source\repos\图书管理系统\bin\Debug\LolipopTestSimple.exe
+C:\Users\bitbits.inc\source\repos\图书管理系统\bin\Debug\LolipopTestSimple.pdb
+C:\Users\bitbits.inc\source\repos\图书管理系统\bin\Debug\Lolipop.dll
+C:\Users\bitbits.inc\source\repos\图书管理系统\bin\Debug\MySql.Data.dll
+C:\Users\bitbits.inc\source\repos\图书管理系统\bin\Debug\Lolipop.pdb
+C:\Users\bitbits.inc\source\repos\图书管理系统\obj\Debug\LolipopTestSimple.csproj.CopyComplete
+C:\Users\bitbits.inc\source\repos\图书管理系统\obj\Debug\LolipopTestSimple.exe
+C:\Users\bitbits.inc\source\repos\图书管理系统\obj\Debug\LolipopTestSimple.pdb

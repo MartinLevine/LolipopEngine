@@ -1,0 +1,13 @@
+C:\Users\bitbits.inc\source\repos\图书管理系统\bin\Debug\图书管理系统.exe
+C:\Users\bitbits.inc\source\repos\图书管理系统\bin\Debug\图书管理系统.pdb
+C:\Users\bitbits.inc\source\repos\图书管理系统\bin\Debug\Lolipop.dll
+C:\Users\bitbits.inc\source\repos\图书管理系统\bin\Debug\Lolipop.pdb
+C:\Users\bitbits.inc\source\repos\图书管理系统\obj\Debug\图书管理系统.csprojAssemblyReference.cache
+C:\Users\bitbits.inc\source\repos\图书管理系统\obj\Debug\图书管理系统.Form1.resources
+C:\Users\bitbits.inc\source\repos\图书管理系统\obj\Debug\图书管理系统.Properties.Resources.resources
+C:\Users\bitbits.inc\source\repos\图书管理系统\obj\Debug\图书管理系统.csproj.GenerateResource.cache
+C:\Users\bitbits.inc\source\repos\图书管理系统\obj\Debug\图书管理系统.csproj.CoreCompileInputs.cache
+C:\Users\bitbits.inc\source\repos\图书管理系统\obj\Debug\图书管理系统.csproj.CopyComplete
+C:\Users\bitbits.inc\source\repos\图书管理系统\obj\Debug\图书管理系统.exe
+C:\Users\bitbits.inc\source\repos\图书管理系统\obj\Debug\图书管理系统.pdb
+C:\Users\bitbits.inc\source\repos\图书管理系统\bin\Debug\MySql.Data.dll
